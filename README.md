@@ -8,6 +8,9 @@
 * Join [here](https://www.youtube.com/watch?v=aeNbN7sIUcc)
 * Duration: _80 Minutes_
 
+## Prerequisites
+
+
 ## What are we going to do today?
 
 > 1. Intro to k8s - 10 mins
