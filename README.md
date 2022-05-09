@@ -2,15 +2,47 @@
 
 Duration: _80 Minutes_
 
-Step 1: Intro to k8s - 10 mins
+## What are we going to do today?
 
-Step 2: Deploy an AKS using Portal (Manually) - 15 mins
+> 1. Intro to k8s - 10 mins
+> 1. Deploy an AKS using Portal (Manually) - 15 mins
+> 1. Introduction to Terraform - 10 mins
+> 1. Deploy an AKS using Terraform - 15 mins
+> 1. Introduction to GitHub Actions - 10 mins
+> 1. Deploy AKS via Terraform using GitHub Actions - 20 mins
 
-Step 3: Introduction to Terraform - 10 mins
 
-Step 4: Deploy an AKS using Terraform - 15 mins
 
-Step 5: Introduction to GitHub Actions - 10 mins
+##  Intro to k8s 
 
-Step 6: Deploy AKS via Terraform using GitHub Actions - 20 mins
+> 1. Discussion and Demo 
+
+
+## Deploy an AKS using Portal (Manually)
+
+> 1. Discussion and Demo 
+
+
+## Introduction to Terraform - 10 mins
+
+> 1. Discussion and Demo
+
+
+## Deploy an AKS using Terraform - 15 mins
+
+> 1. Discussion and Demo
+
+
+## Introduction to GitHub Actions - 10 mins
+
+> 1. Discussion and Demo
+
+
+## Deploy AKS via Terraform using GitHub Actions - 20 mins
+
+> 1. Discussion and Demo
+
+
+## Q&A
+
 
