@@ -1,6 +1,12 @@
 # Getting started with AKS using Terraform, GitHub Actions
 
-Duration: _80 Minutes_
+
+## Schedule
+* Location: Youtube Live
+* Date: May 28 2022, Saturday
+* Time: 10:00 AM IST to 11:20 AM IST
+* Join [here](https://www.youtube.com/watch?v=aeNbN7sIUcc)
+* Duration: _80 Minutes_
 
 ## What are we going to do today?
 
