@@ -1,5 +1,6 @@
 # [Getting started with AKS using Terraform, GitHub Actions](https://www.meetup.com/dot-net-learners-house-hyderabad/events/285669327/)
 
+![Poster](/Documentation/Images/Speakers.PNG)
 
 ## Schedule
 * Location: Youtube Live
